@@ -1,0 +1,7 @@
+{
+  "core": "2.4.1",
+  "plugins": {
+    "lottie": "1.0.4"
+  },
+  "engineVersion": "1.2.35"
+}
